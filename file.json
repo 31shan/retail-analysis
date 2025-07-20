@@ -1,0 +1,13 @@
+[{
+  "pair": "Net_Sales-Promo_Spend",
+  "correlation": 0.0464465133027436
+}, 
+{
+  "pair": "Return_promo",
+  "correlation": -0.0175336560648231
+}, 
+{
+  "pair": "Returns_Net_Sales",
+  "correlation": -0.0336973248547515
+} 
+]
